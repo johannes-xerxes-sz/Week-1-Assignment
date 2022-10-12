@@ -17,7 +17,4 @@ Contributors names and contact info
 
 * 0.1
     * Uploaded
-    
-## Acknowledgments.
-I would like to thank Google.
-* [Google](https://google.com)
+
